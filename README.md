@@ -2,15 +2,10 @@
 
 ### 👩‍💻 About Me
 🎓 CSE Undergraduate Student
-
 💻 Passionate about Programming, Problem Solving, and Software Development
-
 🤖 Currently exploring Machine Learning and Deep Learning
-
 🐍 Proficient in Python and experienced with C/C++
-
 🌐 Familiar with HTML and CSS for Front-End Development
-
 📊 Interested in building data-driven solutions for real-world problems
 
 ---
