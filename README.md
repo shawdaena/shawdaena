@@ -1,4 +1,4 @@
-<img width="676" height="761" alt="image" src="https://github.com/user-attachments/assets/6afb202b-ab39-431c-aa40-5d37edde63d9" /># Hi there 👋, I'm Shawda Afroz Ena
+# Hi there 👋, I'm Shawda Afroz Ena
 
 ### 👩‍💻 About Me
 🎓 CSE Undergraduate Student <br>
