@@ -1,12 +1,12 @@
-# Hi there 👋, I'm Shawda Afroz Ena
+<img width="676" height="761" alt="image" src="https://github.com/user-attachments/assets/6afb202b-ab39-431c-aa40-5d37edde63d9" /># Hi there 👋, I'm Shawda Afroz Ena
 
 ### 👩‍💻 About Me
-🎓 CSE Undergraduate Student
-💻 Passionate about Programming, Problem Solving, and Software Development
-🤖 Currently exploring Machine Learning and Deep Learning
-🐍 Proficient in Python and experienced with C/C++
-🌐 Familiar with HTML and CSS for Front-End Development
-📊 Interested in building data-driven solutions for real-world problems
+🎓 CSE Undergraduate Student <br>
+💻 Passionate about Programming, Problem Solving, and Software Development <br>
+🤖 Currently exploring Machine Learning and Deep Learning <br>
+🐍 Proficient in Python and experienced with C/C++ <br>
+🌐 Familiar with HTML and CSS for Front-End Development <br>
+📊 Interested in building data-driven solutions for real-world problems <br>
 
 ---
 
