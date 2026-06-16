@@ -34,15 +34,6 @@
 #### Data Science & ML
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-
----
-
-### 📈 Competitive Programming
-
-- LeetCode: Highest Rating **1460**
-- Regularly practice Data Structures and Algorithms
-- Interested in solving real-world and algorithmic problems
-
 ---
 
 ### 🌐 Connect With Me
